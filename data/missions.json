@@ -1,0 +1,28 @@
+[
+    {
+      "mission_id": 1,
+      "title": "Operation Skywatch",
+      "log": "Patrolled Zone 7 for 6 hours. Detected minor radar activity near grid C5. No engagement. Weather was clear. Returned to base safely."
+    },
+    {
+      "mission_id": 2,
+      "title": "Recon Sweep Delta",
+      "log": "Drone conducted deep surveillance over Sector 9. Captured high-res images of unidentified structure. No hostile activity. Data uploaded to command."
+    },
+    {
+      "mission_id": 3,
+      "title": "Night Hawk Escort",
+      "log": "Escorted cargo UAV to Forward Post Echo. Encountered low-flying bird flock. No deviations. Landed without incident. Fuel levels optimal."
+    },
+    {
+      "mission_id": 4,
+      "title": "Red Dagger",
+      "log": "Response to GPS jamming in eastern airspace. Triangulated source, relayed to ground teams. Temporary signal restored. Mission marked as partial success."
+    },
+    {
+      "mission_id": 5,
+      "title": "Stormstrike",
+      "log": "Mission delayed due to electrical storm. Performed low-altitude check of radar station Alpha-2 once weather cleared. Radar found intact. Logged power fluctuations."
+    }
+  ]
+  
